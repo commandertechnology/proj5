@@ -1,4 +1,4 @@
-#include "daily-stats.cpp"
+#include "daily-stats.hpp"
 #include <cassert>
 #include <iostream>
 

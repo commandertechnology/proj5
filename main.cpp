@@ -1,5 +1,5 @@
 
-#include "daily-stats.cpp"
+#include "daily-stats.hpp"
 #include <cmath>
 #include <fstream>
 #include <iomanip>
@@ -59,7 +59,7 @@ int main() {
         // checking position choosed
 
         if (option == 1) {
-        std:
+
           std::string new_date;
           std::cout << "Please enter a date in format like mm/dd/yyyy : ";
           std::cin >> new_date;
