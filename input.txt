@@ -1,0 +1,9 @@
+not-exist.txt
+temperatures.txt
+1
+06/01/2020
+1
+06/12/2021
+2
+3
+4
